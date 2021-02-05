@@ -76,7 +76,7 @@ private:
             0,
             0,0,0,0,1,
             0
-        }//4 stp
+        }//5 stp
     };
 
     short *p_C, *p_ov, *p_z, *p_m;
